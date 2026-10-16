@@ -1,0 +1,218 @@
+#separator:tab
+#html:false
+#tags column:3
+What is viticulture?	The cultivation of grapevines (grape growing).	CMS_Intro Basics_Viticulture
+What is vinification?	The process of making wine.	CMS_Intro Basics_Winemaking
+What is Vitis vinifera?	The European grapevine species used for nearly all fine wine.	CMS_Intro Basics_Viticulture
+What is phylloxera?	A root-feeding insect that devastated European vineyards in the late 1800s. Controlled by grafting vinifera vines onto American rootstocks.	CMS_Intro Basics_Viticulture
+What is the order of the vine's annual growth cycle?	Dormancy, budbreak, flowering, fruit set, veraison, harvest.	CMS_Intro Basics_Viticulture
+What is veraison?	The onset of ripening, when grapes change color and soften.	CMS_Intro Basics_Viticulture
+What is Botrytis cinerea (noble rot)?	A fungus that shrivels grapes and concentrates sugar and acid. Used for sweet wines like Sauternes and Tokaji Aszu.	CMS_Intro Basics_Viticulture
+What is must?	Freshly crushed grape juice, including skins, seeds, and sometimes stems.	CMS_Intro Basics_Winemaking
+What does yeast convert during alcoholic fermentation?	Sugar into alcohol (ethanol) and carbon dioxide, plus heat.	CMS_Intro Basics_Winemaking
+Where does red wine get its color?	From contact with the grape skins (maceration). The juice of most red grapes is clear.	CMS_Intro Basics_Winemaking
+How is rose typically made?	Red grapes with brief skin contact (a few hours to a couple of days), then fermented like a white wine.	CMS_Intro Basics_Winemaking
+Where does tannin in wine come from?	Grape skins, seeds, and stems, plus oak barrels.	CMS_Intro Basics_Winemaking
+What is malolactic conversion?	Bacteria convert sharp malic acid into softer lactic acid. Can add buttery notes (diacetyl), common in Chardonnay.	CMS_Intro Basics_Winemaking
+What is chaptalization?	Adding sugar to the must to increase the final alcohol level.	CMS_Intro Basics_Winemaking
+What are lees?	Dead yeast cells that settle after fermentation. Aging on the lees (sur lie) adds texture and bready notes.	CMS_Intro Basics_Winemaking
+What is batonnage?	Stirring the lees to add richness and texture.	CMS_Intro Basics_Winemaking
+What is carbonic maceration?	Fermenting whole, uncrushed grapes in a CO2-rich environment. Produces fruity, low-tannin wines; associated with Beaujolais.	CMS_Intro Basics_Winemaking
+What is a fortified wine?	Wine with added grape spirit (brandy), such as Port, Sherry, and Madeira.	CMS_Intro Basics_Winemaking
+What is the traditional method of sparkling wine?	A second fermentation in the bottle. Used for Champagne, Cava, Franciacorta, and Cremant.	CMS_Intro Basics_Sparkling
+What is the tank (Charmat) method?	A second fermentation in a pressurized tank. Used for Prosecco.	CMS_Intro Basics_Sparkling
+What is liqueur de tirage?	A mixture of wine, sugar, and yeast added to start the second fermentation in the bottle.	CMS_Intro Basics_Sparkling
+What is riddling (remuage)?	Gradually turning and tilting bottles to move yeast sediment into the neck.	CMS_Intro Basics_Sparkling
+What is disgorgement?	Removing the frozen plug of yeast sediment from the bottle neck.	CMS_Intro Basics_Sparkling
+What is dosage?	A mix of wine and sugar added after disgorgement that sets the final sweetness.	CMS_Intro Basics_Sparkling
+Sparkling wine sweetness levels, driest to sweetest?	Brut Nature, Extra Brut, Brut, Extra Dry, Sec, Demi-Sec, Doux.	CMS_Intro Basics_Sparkling
+What is AOC / AOP?	Appellation d'Origine Controlee / Protegee: France's top quality category, tied to a defined place with rules on grapes, yields, and methods.	CMS_Intro France_General
+What is IGP (Vin de Pays)?	France's regional wine tier, with more flexible rules than AOP.	CMS_Intro France_General
+Main red grapes of Bordeaux?	Cabernet Sauvignon, Merlot, Cabernet Franc (plus Petit Verdot, Malbec, Carmenere).	CMS_Intro France_Bordeaux
+Main white grapes of Bordeaux?	Sauvignon Blanc, Semillon, Muscadelle.	CMS_Intro France_Bordeaux
+Which river and estuary divide Bordeaux's Left and Right Banks?	The Gironde estuary, formed by the Garonne and Dordogne rivers.	CMS_Intro France_Bordeaux
+Dominant grape on Bordeaux's Left Bank?	Cabernet Sauvignon.	CMS_Intro France_Bordeaux
+Dominant grape on Bordeaux's Right Bank?	Merlot, with Cabernet Franc.	CMS_Intro France_Bordeaux
+Four famous communes of the Haut-Medoc?	Saint-Estephe, Pauillac, Saint-Julien, Margaux.	CMS_Intro France_Bordeaux
+Two famous Right Bank appellations?	Saint-Emilion and Pomerol.	CMS_Intro France_Bordeaux
+What is the 1855 Classification?	A ranking of Bordeaux chateaux into five growths (crus) for Medoc reds plus Haut-Brion, and a separate ranking for Sauternes and Barsac.	CMS_Intro France_Bordeaux
+The five red First Growths of Bordeaux?	Lafite Rothschild, Latour, Margaux, Haut-Brion, Mouton Rothschild (promoted in 1973).	CMS_Intro France_Bordeaux
+What is Sauternes?	A sweet white wine from botrytized Semillon and Sauvignon Blanc. Chateau d'Yquem is the most famous.	CMS_Intro France_Bordeaux
+Pessac-Leognan is part of which Bordeaux subregion?	Graves. Known for both red and dry white wines.	CMS_Intro France_Bordeaux
+Main red grape of Burgundy?	Pinot Noir.	CMS_Intro France_Burgundy
+Main white grape of Burgundy?	Chardonnay.	CMS_Intro France_Burgundy
+Burgundy's four quality levels, highest to lowest?	Grand Cru, Premier Cru, Village, Regional (Bourgogne).	CMS_Intro France_Burgundy
+The two halves of the Cote d'Or?	Cote de Nuits (north, mostly red) and Cote de Beaune (south, red and white).	CMS_Intro France_Burgundy
+Famous red villages of the Cote de Nuits?	Gevrey-Chambertin, Chambolle-Musigny, Vosne-Romanee, Nuits-Saint-Georges.	CMS_Intro France_Burgundy
+Famous white wine villages of the Cote de Beaune?	Meursault, Puligny-Montrachet, Chassagne-Montrachet.	CMS_Intro France_Burgundy
+What grape and style is Chablis?	Chardonnay. Typically high-acid, mineral, and unoaked or lightly oaked.	CMS_Intro France_Burgundy
+What is the Maconnais known for?	Chardonnay, such as Pouilly-Fuisse.	CMS_Intro France_Burgundy
+What does monopole mean in Burgundy?	A vineyard owned entirely by a single producer.	CMS_Intro France_Burgundy
+Grape of Beaujolais?	Gamay.	CMS_Intro France_Beaujolais
+How many Beaujolais crus are there?	Ten, including Morgon, Fleurie, and Moulin-a-Vent.	CMS_Intro France_Beaujolais
+Three main grapes of Champagne?	Chardonnay, Pinot Noir, Pinot Meunier.	CMS_Intro France_Champagne
+What does Blanc de Blancs mean?	White wine made only from white grapes, usually 100% Chardonnay in Champagne.	CMS_Intro France_Champagne
+What does Blanc de Noirs mean?	White wine made from red grapes (Pinot Noir and/or Meunier).	CMS_Intro France_Champagne
+Minimum aging for non-vintage Champagne?	15 months total, including at least 12 months on the lees.	CMS_Intro France_Champagne
+Minimum aging for vintage Champagne?	3 years.	CMS_Intro France_Champagne
+What does NV mean on Champagne?	Non-vintage: a blend of wines from multiple years.	CMS_Intro France_Champagne
+What is a Recoltant-Manipulant (RM)?	A grower who makes Champagne from their own grapes (grower Champagne).	CMS_Intro France_Champagne
+What is Cremant?	French traditional-method sparkling wine made outside Champagne, such as Cremant d'Alsace or Cremant de Loire.	CMS_Intro France_Champagne
+Grape of Sancerre (white)?	Sauvignon Blanc. Red Sancerre is Pinot Noir.	CMS_Intro France_Loire
+Grape of Pouilly-Fume?	Sauvignon Blanc.	CMS_Intro France_Loire
+Grape of Vouvray?	Chenin Blanc (dry to sweet, still or sparkling).	CMS_Intro France_Loire
+Grape of Savennieres?	Chenin Blanc.	CMS_Intro France_Loire
+Grape of Muscadet?	Melon de Bourgogne (Melon Blanc). Often aged sur lie.	CMS_Intro France_Loire
+Red grape of Chinon?	Cabernet Franc.	CMS_Intro France_Loire
+Main red grape of the Northern Rhone?	Syrah.	CMS_Intro France_Rhone
+Grape of Condrieu?	Viognier.	CMS_Intro France_Rhone
+Which white grape may be co-fermented in Cote-Rotie?	Viognier (up to 20%).	CMS_Intro France_Rhone
+Grapes of Hermitage?	Syrah for red; Marsanne and Roussanne for white.	CMS_Intro France_Rhone
+Grape of Cornas?	100% Syrah.	CMS_Intro France_Rhone
+Main grape of the Southern Rhone?	Grenache.	CMS_Intro France_Rhone
+What does GSM stand for?	Grenache, Syrah, Mourvedre: the classic Southern Rhone blend.	CMS_Intro France_Rhone
+How many grape varieties are allowed in Chateauneuf-du-Pape?	13 varieties (18 counting color variants). Grenache dominates.	CMS_Intro France_Rhone
+What is Tavel known for?	Dry rose.	CMS_Intro France_Rhone
+The four noble grapes of Alsace?	Riesling, Gewurztraminer, Pinot Gris, Muscat.	CMS_Intro France_Alsace
+Which mountains shelter Alsace, making it dry and sunny?	The Vosges Mountains.	CMS_Intro France_Alsace
+What bottle shape is used in Alsace?	The tall, slender flute.	CMS_Intro France_Alsace
+What is Vendanges Tardives?	Late-harvest wine, typically off-dry to sweet.	CMS_Intro France_Alsace
+What is Selection de Grains Nobles?	Sweet wine from botrytis-affected grapes.	CMS_Intro France_Alsace
+What is Provence best known for?	Dry, pale rose.	CMS_Intro France_Other
+Grape of Cahors?	Malbec (called Cot locally).	CMS_Intro France_Other
+What is Banyuls?	A sweet, fortified, Grenache-based wine from Roussillon.	CMS_Intro France_Other
+What is Vin Jaune?	A Jura wine from Savagnin, aged under a veil of yeast. Chateau-Chalon is the most famous.	CMS_Intro France_Other
+What is DOCG?	Denominazione di Origine Controllata e Garantita: Italy's highest quality tier.	CMS_Intro Italy_General
+Grape of Barolo and Barbaresco?	Nebbiolo.	CMS_Intro Italy_Piedmont
+Minimum aging for Barolo?	38 months, including 18 months in wood (Riserva: 62 months).	CMS_Intro Italy_Piedmont
+Minimum aging for Barbaresco?	26 months, including 9 months in wood (Riserva: 50 months).	CMS_Intro Italy_Piedmont
+Piedmont's two everyday red grapes?	Barbera and Dolcetto.	CMS_Intro Italy_Piedmont
+What is Moscato d'Asti?	A lightly sparkling (frizzante), sweet, low-alcohol wine from Moscato Bianco.	CMS_Intro Italy_Piedmont
+Grape of Gavi?	Cortese.	CMS_Intro Italy_Piedmont
+Main grape of Chianti?	Sangiovese.	CMS_Intro Italy_Tuscany
+Symbol on Chianti Classico bottles?	The black rooster (Gallo Nero).	CMS_Intro Italy_Tuscany
+Grape of Brunello di Montalcino?	100% Sangiovese (the Brunello clone).	CMS_Intro Italy_Tuscany
+Minimum aging for Brunello di Montalcino?	At least 2 years in oak; released 5 years after harvest (6 for Riserva).	CMS_Intro Italy_Tuscany
+Main grape of Vino Nobile di Montepulciano?	Sangiovese (called Prugnolo Gentile), not the Montepulciano grape.	CMS_Intro Italy_Tuscany
+What is a Super Tuscan?	A Tuscan wine made outside traditional DOC rules, often with international grapes like Cabernet. Examples: Sassicaia, Tignanello.	CMS_Intro Italy_Tuscany
+How is Amarone della Valpolicella made?	From dried grapes (appassimento), mainly Corvina. Dry, rich, and high in alcohol.	CMS_Intro Italy_Veneto
+What is Recioto della Valpolicella?	A sweet red wine made from dried grapes.	CMS_Intro Italy_Veneto
+Grape of Soave?	Garganega.	CMS_Intro Italy_Veneto
+Grape of Prosecco?	Glera.	CMS_Intro Italy_Veneto
+Top DOCG area for Prosecco?	Conegliano Valdobbiadene.	CMS_Intro Italy_Veneto
+What is Franciacorta?	Traditional-method sparkling wine from Lombardy.	CMS_Intro Italy_Other
+Grape of Montepulciano d'Abruzzo?	Montepulciano.	CMS_Intro Italy_Other
+What is Taurasi?	A red DOCG wine from Campania made from Aglianico.	CMS_Intro Italy_Other
+Primitivo is genetically identical to which grape?	Zinfandel.	CMS_Intro Italy_Other
+Main grapes of Mount Etna?	Nerello Mascalese (red) and Carricante (white), in Sicily.	CMS_Intro Italy_Other
+What is Lambrusco?	A sparkling red wine from Emilia-Romagna.	CMS_Intro Italy_Other
+What is Marsala?	A fortified wine from Sicily.	CMS_Intro Italy_Other
+Spain's two DOCa (DOQ) regions?	Rioja and Priorat.	CMS_Intro Spain
+Main grape of Rioja?	Tempranillo.	CMS_Intro Spain
+Rioja Crianza aging requirement (red)?	2 years total, at least 1 year in oak.	CMS_Intro Spain
+Rioja Reserva aging requirement (red)?	3 years total, at least 1 year in oak.	CMS_Intro Spain
+Rioja Gran Reserva aging requirement (red)?	5 years total, at least 2 years in oak.	CMS_Intro Spain
+Main grape of Ribera del Duero?	Tempranillo (called Tinto Fino or Tinta del Pais).	CMS_Intro Spain
+Main grapes and soil of Priorat?	Garnacha and Carinena on llicorella slate soil.	CMS_Intro Spain
+Grape of Rias Baixas?	Albarino.	CMS_Intro Spain
+What is Cava and its traditional grapes?	Spanish traditional-method sparkling wine from Macabeo, Xarel-lo, and Parellada.	CMS_Intro Spain
+Where is Sherry made?	Jerez, in Andalusia, southern Spain.	CMS_Intro Spain_Sherry
+Main grape of Sherry?	Palomino.	CMS_Intro Spain_Sherry
+What is flor?	A layer of yeast that protects Fino and Manzanilla Sherry from oxidation.	CMS_Intro Spain_Sherry
+What is a solera?	A fractional blending system of barrels used to age Sherry.	CMS_Intro Spain_Sherry
+Fino vs. Oloroso Sherry?	Fino is aged under flor: pale and dry. Oloroso is aged without flor (oxidatively): darker and nutty.	CMS_Intro Spain_Sherry
+What is Manzanilla?	A Fino-style Sherry aged in Sanlucar de Barrameda.	CMS_Intro Spain_Sherry
+What is Pedro Ximenez (PX) Sherry?	A very sweet Sherry made from sun-dried Pedro Ximenez grapes.	CMS_Intro Spain_Sherry
+Where is Port made?	The Douro Valley in Portugal.	CMS_Intro Portugal
+How is Port made sweet?	Fermentation is stopped by adding grape spirit, leaving residual sugar.	CMS_Intro Portugal
+What is Vintage Port?	Port from a single declared year, bottled young and aged in bottle for decades.	CMS_Intro Portugal
+What is Tawny Port?	Port aged in wood, giving a nutty, oxidative style. Often labeled 10, 20, 30, or 40 years.	CMS_Intro Portugal
+What is Late Bottled Vintage (LBV) Port?	Port from a single year, bottled 4 to 6 years after harvest.	CMS_Intro Portugal
+Key red grape of the Douro and Port?	Touriga Nacional.	CMS_Intro Portugal
+What is Madeira?	A fortified wine that is heated during aging and extremely long-lived.	CMS_Intro Portugal
+Madeira's four noble grapes, driest to sweetest?	Sercial, Verdelho, Bual (Boal), Malmsey (Malvasia).	CMS_Intro Portugal
+What is Vinho Verde?	A light, often slightly spritzy wine from northern Portugal.	CMS_Intro Portugal
+Germany's most important grape?	Riesling.	CMS_Intro Germany
+Germany's Pradikat levels, by ripeness?	Kabinett, Spatlese, Auslese, Beerenauslese, Trockenbeerenauslese, plus Eiswein.	CMS_Intro Germany
+What does trocken mean on a German label?	Dry.	CMS_Intro Germany
+What is Eiswein?	Sweet wine made from grapes frozen on the vine.	CMS_Intro Germany
+What is the Mosel known for?	Riesling from steep slate slopes: light, high-acid, often off-dry.	CMS_Intro Germany
+German name for Pinot Noir?	Spatburgunder.	CMS_Intro Germany
+What is the VDP and Grosses Gewachs (GG)?	The VDP is an association of top German estates. GG is its dry wine from top-classified vineyards.	CMS_Intro Germany
+Austria's signature white grape?	Gruner Veltliner.	CMS_Intro Austria
+Wachau dry wine categories, lightest to fullest?	Steinfeder, Federspiel, Smaragd.	CMS_Intro Austria
+Austria's main red grapes?	Zweigelt and Blaufrankisch.	CMS_Intro Austria
+What is Tokaji Aszu and its main grape?	A sweet botrytized wine from Hungary, mainly Furmint.	CMS_Intro Other_Europe
+Signature white grape of Santorini, Greece?	Assyrtiko.	CMS_Intro Other_Europe
+What is an AVA?	American Viticultural Area: a geographic designation with no rules on grapes or winemaking.	CMS_Intro USA
+Minimum percentage for a US varietal label?	75% of the named grape (Oregon requires 90% for most varieties).	CMS_Intro USA
+Napa Valley's signature grape?	Cabernet Sauvignon.	CMS_Intro USA_California
+Notable Napa Valley sub-AVAs?	Oakville, Rutherford, Stags Leap District, Howell Mountain.	CMS_Intro USA_California
+What are Russian River Valley and Sonoma Coast known for?	Cool, foggy climates suited to Pinot Noir and Chardonnay.	CMS_Intro USA_California
+What was the 1976 Judgment of Paris?	A blind tasting where California wines (Stag's Leap Wine Cellars Cabernet and Chateau Montelena Chardonnay) beat top French wines.	CMS_Intro USA_California
+What is Paso Robles known for?	Rhone varieties, Zinfandel, and Cabernet Sauvignon.	CMS_Intro USA_California
+What is Sta. Rita Hills known for?	Cool-climate Pinot Noir and Chardonnay in Santa Barbara County.	CMS_Intro USA_California
+What is Zinfandel?	A signature California red grape, genetically the same as Italy's Primitivo.	CMS_Intro USA_California
+What is Meritage?	A term for American Bordeaux-style blends.	CMS_Intro USA
+Oregon's Willamette Valley signature grape?	Pinot Noir.	CMS_Intro USA_PacNW
+Where are most Washington State vineyards?	East of the Cascade Mountains, mainly in the Columbia Valley.	CMS_Intro USA_PacNW
+New York's Finger Lakes is best known for?	Riesling.	CMS_Intro USA
+Australia's signature red grape?	Shiraz (Syrah).	CMS_Intro Australia_NZ
+Barossa Valley is famous for?	Rich, full-bodied Shiraz.	CMS_Intro Australia_NZ
+Clare Valley and Eden Valley are known for?	Dry Riesling.	CMS_Intro Australia_NZ
+Hunter Valley's famous white grape?	Semillon.	CMS_Intro Australia_NZ
+Coonawarra's famous soil and grape?	Terra rossa soil and Cabernet Sauvignon.	CMS_Intro Australia_NZ
+Margaret River is known for?	Cabernet Sauvignon and Chardonnay (Western Australia).	CMS_Intro Australia_NZ
+Marlborough, New Zealand is famous for?	Sauvignon Blanc.	CMS_Intro Australia_NZ
+Central Otago, New Zealand is known for?	Pinot Noir.	CMS_Intro Australia_NZ
+Argentina's signature red grape and main region?	Malbec, mainly from Mendoza.	CMS_Intro South_America
+What is Torrontes?	Argentina's aromatic white grape, notably from Salta.	CMS_Intro South_America
+Chile's signature red grape?	Carmenere.	CMS_Intro South_America
+Chile's Casablanca Valley is known for?	Cool-climate Sauvignon Blanc and Chardonnay.	CMS_Intro South_America
+South Africa's signature red grape?	Pinotage (a cross of Pinot Noir and Cinsault).	CMS_Intro South_Africa
+South African name for Chenin Blanc?	Steen.	CMS_Intro South_Africa
+South Africa's best-known wine region?	Stellenbosch.	CMS_Intro South_Africa
+Classic aromas of Sauvignon Blanc?	Grapefruit, gooseberry, cut grass, green bell pepper.	CMS_Intro Grapes
+Aroma of aged Riesling?	Petrol (kerosene), plus honey.	CMS_Intro Grapes
+Classic aromas of Gewurztraminer?	Lychee, rose, baking spice.	CMS_Intro Grapes
+Classic aromas of Viognier?	Apricot, peach, honeysuckle.	CMS_Intro Grapes
+Aromas from oak and malolactic in Chardonnay?	Vanilla and toast from oak; butter from malolactic conversion.	CMS_Intro Grapes
+Classic aromas of Pinot Noir?	Red cherry, raspberry, earth, mushroom.	CMS_Intro Grapes
+Classic aromas of Cabernet Sauvignon?	Black currant (cassis), green bell pepper, cedar.	CMS_Intro Grapes
+Classic aromas of Syrah?	Black pepper, blackberry, olive, smoked meat.	CMS_Intro Grapes
+Classic profile of Nebbiolo?	Tar and roses; pale color with high tannin and high acid.	CMS_Intro Grapes
+Classic aromas of Malbec?	Plum, blackberry, violet.	CMS_Intro Grapes
+Classic aromas of Grenache?	Strawberry, raspberry, white pepper; often high alcohol.	CMS_Intro Grapes
+Classic aromas of Tempranillo?	Cherry, leather, tobacco; American oak adds dill and coconut in Rioja.	CMS_Intro Grapes
+Classic profile of Merlot?	Plum, chocolate, soft tannins.	CMS_Intro Grapes
+Main grape and distillation method for Cognac?	Ugni Blanc, double-distilled in copper pot stills.	CMS_Intro Spirits
+Cognac minimum aging: VS, VSOP, XO?	VS: 2 years. VSOP: 4 years. XO: 10 years.	CMS_Intro Spirits
+What is Armagnac?	Brandy from Gascony, usually single (column) distilled.	CMS_Intro Spirits
+What is Calvados?	Apple (and pear) brandy from Normandy.	CMS_Intro Spirits
+Scotch whisky minimum aging?	3 years in oak casks in Scotland.	CMS_Intro Spirits
+Key requirements for bourbon?	Made in the US, at least 51% corn, aged in new charred oak containers, bottled at 80 proof or higher.	CMS_Intro Spirits
+Minimum aging for straight bourbon?	2 years.	CMS_Intro Spirits
+What is tequila made from?	Blue Weber agave. Premium tequila is 100% agave; mixto must be at least 51% agave.	CMS_Intro Spirits
+What gives mezcal its smoky flavor?	Agave hearts are roasted in earthen pits. Oaxaca is the main region.	CMS_Intro Spirits
+What is rum made from?	Sugarcane juice or molasses.	CMS_Intro Spirits
+What is rhum agricole?	Rum made from fresh sugarcane juice, mainly in the French Caribbean (Martinique).	CMS_Intro Spirits
+Gin's required dominant flavor?	Juniper.	CMS_Intro Spirits
+What is vermouth?	An aromatized, fortified wine.	CMS_Intro Spirits
+Four main ingredients of beer?	Water, malted barley (grain), hops, yeast.	CMS_Intro Beer_Sake
+Ale vs. lager?	Ale uses top-fermenting yeast at warmer temperatures. Lager uses bottom-fermenting yeast at cooler temperatures.	CMS_Intro Beer_Sake
+Main ingredients of sake?	Rice, water, koji mold, and yeast.	CMS_Intro Beer_Sake
+What does junmai mean on sake?	Pure rice sake with no added distilled alcohol.	CMS_Intro Beer_Sake
+Rice polishing for Ginjo vs. Daiginjo?	Ginjo: 60% or less of the grain remains. Daiginjo: 50% or less remains.	CMS_Intro Beer_Sake
+Serving temperature for sparkling wine?	Well chilled, about 43 to 48 F (6 to 9 C).	CMS_Intro Service
+Serving temperature for light whites?	About 45 to 50 F (7 to 10 C).	CMS_Intro Service
+Serving temperature for full-bodied reds?	About 60 to 65 F (15 to 18 C).	CMS_Intro Service
+Two reasons to decant wine?	To separate sediment from older wines and to aerate young wines.	CMS_Intro Service
+From which side do you pour for a guest?	The guest's right side.	CMS_Intro Service
+Order of wine service at a table?	The host tastes first, then guests are served, with the host's glass filled last.	CMS_Intro Service
+How do you open sparkling wine safely?	Keep a hand on the cork, hold the bottle at a 45-degree angle pointed away from guests, and twist the bottle, not the cork, for a quiet release.	CMS_Intro Service
+Standard wine bottle size and a magnum?	Standard: 750 ml. Magnum: 1.5 liters (two bottles).	CMS_Intro Service
+What causes a corked wine?	TCA (2,4,6-trichloroanisole), which gives a musty, wet cardboard smell.	CMS_Intro Service
+Order of the Deductive Tasting Method?	Sight, nose, palate, initial conclusion, final conclusion.	CMS_Intro Service
+Wine and food pairing: acidic foods?	Pair with wines of equal or higher acidity.	CMS_Intro Service
+Wine and food pairing: desserts?	The wine should be sweeter than the dessert.	CMS_Intro Service
+Wine and food pairing: tannic reds?	Pair with fatty proteins like steak. Avoid with spicy food or delicate fish.	CMS_Intro Service
