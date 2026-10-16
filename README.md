@@ -5,7 +5,8 @@ Introductory exam, built from `CMS_Intro_Sommelier_Anki_Deck.txt`.
 
 ## Use
 
-Open `index.html` in a browser. That's it. Progress is saved in that browser's
+Hosted at https://landede.github.io/cms-flashcards/ — on a phone, use
+"Add to Home Screen" to install it as an app. Or open `index.html` locally. Progress is saved in that browser's
 localStorage. Use **Export progress** on the home screen for a backup.
 
 - Click a deck (or **Study all**) to review with spaced repetition.

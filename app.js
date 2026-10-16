@@ -213,7 +213,7 @@
           <h2 class="q">${esc(card.q)}</h2>
           ${session.flipped
             ? `<hr><p class="a">${esc(card.a)}</p>`
-            : `<p class="hint">Tap or press Space to reveal the answer</p>`}
+            : `<p class="hint"><span class="kb-only">Tap or press Space to reveal the answer</span><span class="touch-only">Tap to reveal the answer</span></p>`}
         </article>
       </div>
       <div class="ratebar"><div class="inner ${session.flipped ? '' : 'single'}">
@@ -310,7 +310,7 @@
         <article class="label" id="card" tabindex="0" aria-label="Flashcard">
           <div class="path">${esc(card.deck.join(' › '))}</div>
           <h2 class="q">${esc(card.q)}</h2>
-          ${session.flipped ? `<hr><p class="a">${esc(card.a)}</p>` : `<p class="hint">Tap or press Space to reveal the answer</p>`}
+          ${session.flipped ? `<hr><p class="a">${esc(card.a)}</p>` : `<p class="hint"><span class="kb-only">Tap or press Space to reveal the answer</span><span class="touch-only">Tap to reveal the answer</span></p>`}
         </article>
       </div>
       <div class="ratebar"><div class="inner single">

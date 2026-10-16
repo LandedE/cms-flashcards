@@ -1,0 +1,12 @@
+{
+  "name": "CMS Wine Flashcards",
+  "short_name": "CMS Cards",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F2EE",
+  "theme_color": "#6E1E2B",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
